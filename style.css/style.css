@@ -1,0 +1,11 @@
+
+.text
+{
+    background-image:url(https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/47/d1/98/exterior.jpg?w=900&h=-1&s=1);
+    width: 600px;
+    height: 400px;
+    text-align: center;
+    padding-top: 50px;
+    font-weight: 400;
+    color: rgb(28, 3, 51);
+}
